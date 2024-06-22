@@ -1,0 +1,3 @@
+/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/dist/lib/libarithmatoy.a
+/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/dist/include/arithmatoy.h
+/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/dist/bin/arithmatoy-cli

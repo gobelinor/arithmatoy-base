@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarithmatoy.a CMakeFiles/arithmatoy.dir/src/arithmatoy.c.o
+/usr/bin/ranlib libarithmatoy.a

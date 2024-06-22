@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/arithmatoy-cli.dir/src/cli.c.o" -o arithmatoy-cli  libarithmatoy.a 

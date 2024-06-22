@@ -1,0 +1,135 @@
+Start testing: Jun 22 16:36 CEST
+----------------------------------------------------------
+1/4 Testing: test_utils
+1/4 Test: test_utils
+Command: "/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build/test_utils"
+Directory: /home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build
+"test_utils" start time: Jun 22 16:36 CEST
+Output:
+----------------------------------------------------------
+[==========] tests: Running 4 test(s).
+[ RUN      ] test_get_digit_value
+[       OK ] test_get_digit_value
+[ RUN      ] test_to_digit
+[       OK ] test_to_digit
+[ RUN      ] test_reverse
+[       OK ] test_reverse
+[ RUN      ] test_drop_leading_zeros
+[       OK ] test_drop_leading_zeros
+[==========] tests: 4 test(s) run.
+[  PASSED  ] 4 test(s).
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_utils" end time: Jun 22 16:36 CEST
+"test_utils" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: test_add
+2/4 Test: test_add
+Command: "/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build/test_add"
+Directory: /home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build
+"test_add" start time: Jun 22 16:36 CEST
+Output:
+----------------------------------------------------------
+[==========] tests: Running 8 test(s).
+[ RUN      ] test_add_random_numbers
+[       OK ] test_add_random_numbers
+[ RUN      ] test_add_with_carry
+[       OK ] test_add_with_carry
+[ RUN      ] test_add_zero
+[       OK ] test_add_zero
+[ RUN      ] test_add_one
+[       OK ] test_add_one
+[ RUN      ] test_add_base2
+[       OK ] test_add_base2
+[ RUN      ] test_add_with_leading_zeros
+[       OK ] test_add_with_leading_zeros
+[ RUN      ] test_add_base10
+[       OK ] test_add_base10
+[ RUN      ] test_add_base16
+[       OK ] test_add_base16
+[==========] tests: 8 test(s) run.
+[  PASSED  ] 8 test(s).
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_add" end time: Jun 22 16:36 CEST
+"test_add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: test_sub
+3/4 Test: test_sub
+Command: "/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build/test_sub"
+Directory: /home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build
+"test_sub" start time: Jun 22 16:36 CEST
+Output:
+----------------------------------------------------------
+[==========] tests: Running 8 test(s).
+[ RUN      ] test_sub_random_numbers
+[       OK ] test_sub_random_numbers
+[ RUN      ] test_sub_with_carry
+[       OK ] test_sub_with_carry
+[ RUN      ] test_sub_zero
+[       OK ] test_sub_zero
+[ RUN      ] test_sub_one
+[       OK ] test_sub_one
+[ RUN      ] test_sub_base2
+[       OK ] test_sub_base2
+[ RUN      ] test_sub_with_leading_zeros
+[       OK ] test_sub_with_leading_zeros
+[ RUN      ] test_sub_base10
+[       OK ] test_sub_base10
+[ RUN      ] test_sub_base16
+[       OK ] test_sub_base16
+[==========] tests: 8 test(s) run.
+[  PASSED  ] 8 test(s).
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_sub" end time: Jun 22 16:36 CEST
+"test_sub" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: test_mul
+4/4 Test: test_mul
+Command: "/home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build/test_mul"
+Directory: /home/juillardt/Documents/ecole2600/arithmatoy-base/.local/cmake/build
+"test_mul" start time: Jun 22 16:36 CEST
+Output:
+----------------------------------------------------------
+[==========] tests: Running 10 test(s).
+[ RUN      ] test_mul_random_numbers
+[       OK ] test_mul_random_numbers
+[ RUN      ] test_mul_with_carry
+[       OK ] test_mul_with_carry
+[ RUN      ] test_mul_zero
+[       OK ] test_mul_zero
+[ RUN      ] test_mul_zero_one
+[       OK ] test_mul_zero_one
+[ RUN      ] test_mul_base2
+[       OK ] test_mul_base2
+[ RUN      ] test_mul_with_leading_zeros
+[       OK ] test_mul_with_leading_zeros
+[ RUN      ] test_mul_base10
+[       OK ] test_mul_base10
+[ RUN      ] test_mul_base16_single_digit
+[       OK ] test_mul_base16_single_digit
+[ RUN      ] test_mul_base16_two_digits
+[       OK ] test_mul_base16_two_digits
+[ RUN      ] test_mul_base16
+[       OK ] test_mul_base16
+[==========] tests: 10 test(s) run.
+[  PASSED  ] 10 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_mul" end time: Jun 22 16:36 CEST
+"test_mul" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 22 16:36 CEST

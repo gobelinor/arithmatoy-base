@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_mul.dir/src/tests/test_mul.c.o -o test_mul  libarithmatoy.a /home/juillardt/Documents/ecole2600/arithmatoy-base/.local/vcpkg/installed/x64-linux/debug/lib/libcmocka.a 
